@@ -10,8 +10,6 @@ brew tap homebrew/cask-versions
 
 #Install Micorsoft office
 brew install --cask microsoft-office 
-#Install Airwatch Client
-brew install --cask workspace-one-intelligent-hub
 #Install Chrome
 brew install --cask google-chrome
 #Install Slack
@@ -52,8 +50,6 @@ brew install --cask rectangle
 brew install --cask adobe-creative-cloud
 #Install OWASP Zap! 
 brew install --cask owasp-zap
-#Install IntelliJ (Paid)
-brew install --cask intellij-idea
 #Github Desktop
 brew install --cask github
 #Install Firefox
