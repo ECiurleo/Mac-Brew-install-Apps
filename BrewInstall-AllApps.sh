@@ -1,4 +1,8 @@
+#Install Xcode
+xcode-select -–install
+#Install Brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew tap homebrew/cask-versions
 
 ##############################
 ### For All Users
@@ -32,8 +36,6 @@ brew install --cask intellij-idea-ce
 brew install --cask iTerm2
 #Install Docker Desktop
 brew install  --cask docker
-#Install VirtualBox
-brew install --cask virtualbox
 #Install Postman
 brew install --cask postman
 #Install AWS Cli
@@ -58,3 +60,5 @@ brew install --cask github
 brew install --cask firefox 
 #Install Microsoft Edge
 brew install --cask microsoft-edge
+#Install VirtualBox (beta needed for M1 support)
+brew install --cask virtualbox-beta
