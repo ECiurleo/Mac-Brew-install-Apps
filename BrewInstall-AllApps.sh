@@ -22,6 +22,8 @@ brew install --cask aws-vpn-client
 brew install  --cask lastpass
 #Install Adobe Acrobat Reader
 brew install --cask adobe-acrobat-reader
+#Install keka (7zip GUI)
+brew install --cask keka
 
 ##############################
 ### For Devs
