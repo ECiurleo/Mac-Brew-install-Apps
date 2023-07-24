@@ -60,3 +60,6 @@ brew install --cask firefox
 brew install --cask microsoft-edge
 #Install VirtualBox (beta needed for M1 support)
 brew install --cask virtualbox-beta
+#Install a nice pomodorro timer 
+brew install --cask tomatobar
+
