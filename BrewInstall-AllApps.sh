@@ -16,8 +16,6 @@ brew install --cask google-chrome
 brew install --cask slack
 #Install Teams
 brew install --cask microsoft-teams
-#Install AWS VPN Client
-brew install --cask aws-vpn-client
 #Install Lastpass Desktop App
 brew install  --cask lastpass
 #Install Adobe Acrobat Reader
@@ -42,6 +40,8 @@ brew install --cask postman
 brew install awscli
 #Install Box Drive
 brew install --cask box-drive
+#Github Desktop
+brew install --cask github
 
 ##############################
 ### Extras
@@ -52,8 +52,6 @@ brew install --cask rectangle
 brew install --cask adobe-creative-cloud
 #Install OWASP Zap! 
 brew install --cask owasp-zap
-#Github Desktop
-brew install --cask github
 #Install Firefox
 brew install --cask firefox 
 #Install Microsoft Edge
